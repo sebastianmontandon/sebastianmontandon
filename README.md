@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sebastian
 #### I'm a Developer in progress
-![I'm a Developer in progress](https://i.pinimg.com/originals/f7/a3/70/f7a3705e74cd6191cd4423878a75558a.png)
+![I'm a Developer in progress](https://github.com/sebastianmontandon/sebastianmontandon/blob/main/banner_github.jpg)
 
 # LITTLE DESCRIPTION ⏬
 
