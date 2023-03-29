@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sebastian
-#### I'm a Developer in progress
-![I'm a Developer in progress](https://github.com/sebastianmontandon/sebastianmontandon/blob/main/backend-is.png)
+
 
 # LITTLE DESCRIPTION ⏬
 
