@@ -11,9 +11,10 @@ I have been dedicated to computing for more than 12 years, but I never found a r
 * 🌎 HTML
 * 🌄 CSS
 * ☕ JS
-* ⚛ REACT
-* 🟢 NODE.JS
 * 🔐 MYSQL
+# NEW !!
+* 🐍 PYTHON
+* ⚡ FASTAPI
 
 #
 
