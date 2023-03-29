@@ -11,14 +11,15 @@ I have been dedicated to computing for more than 12 years, but I never found a r
 * 🌄 CSS
 * ☕ JS
 * 🔐 MYSQL
-# NEW !!
+# NEW ‼
 * 🐍 PYTHON
 * ⚡ FASTAPI
+* 🌱 MONGODB
 
 #
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NODE.JS, REACT, REDUX 
+- 🌱 I’m currently learning PYTHON, FASTAPI, MONGODB 
 - 👯 I’m looking to collaborate on any, if i can 
 
 #
