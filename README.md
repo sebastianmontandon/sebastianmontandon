@@ -24,9 +24,7 @@ I have been dedicated to computing for more than 12 years, but I never found a r
 
 #
 
-[<img src='https://simpleicons.vercel.app/github/fff' alt='github' height='40'>](https://github.com/sebastianmontandon)  
-[<img src='https://simpleicons.vercel.app/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-montandon/)  
-[<img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='40'>](https://twitter.com/SebaMontandon) 
+[<img src='https://simpleicons.vercel.app/github/fff' alt='github' height='40'>](https://github.com/sebastianmontandon) [<img src='https://simpleicons.vercel.app/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-montandon/) [<img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='40'>](https://twitter.com/SebaMontandon) 
 
 #
 
