@@ -1,35 +1,37 @@
-### Hi there 👋, my name is Sebastian
+## Hey <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm Sebastian, Great to see you here!
 
+## About Me 🙂
+Experienced IT professional with 14+ years of dedicated service in the technology sector. I've honed my skills through continuous learning and hands-on experience, specializing in Python development. My journey spans both frontend and backend technologies, making me a versatile and innovative developer.
 
-# LITTLE DESCRIPTION ⏬
+---
+<p align="center">
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=sebastianmontandon&show_icons=true&theme=tokyonight" />     
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmontandon&show_icons=true&theme=tokyonight" />
+<p/>
 
-I have been dedicated to computing for more than 12 years, but I never found a route that would lead me to dedicate myself to the reason of my love for computing, DEVELOPMENT, at this time I decided to focus 100% on growing as a developer.
+---
+<h2 align="center">Contribution Graph 📊</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianmontandon&theme=chartreuse-dark" /> 
 
-# SKILLS 🏆 
+---
+ <h2 align="center">Frontend Stack 🎨</h2>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,figma,ps" />
+</p>
 
-* 🌎 HTML
-* 🌄 CSS
-* ☕ JS
-* 🔐 MYSQL
-# NEW ‼
-* 🐍 PYTHON
-* ⚡ FASTAPI
-* 🌱 MONGODB
+---
+ <h2 align="center">Backend Stack ⚙</h2>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,git,mongodb,mysql,nodejs,express,postman,py" />
+</p>
 
-#
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PYTHON, FASTAPI, MONGODB 
-- 👯 I’m looking to collaborate on any, if i can 
-
-#
-
-[<img src='https://simpleicons.vercel.app/github/fff' alt='github' height='40'>](https://github.com/sebastianmontandon)    [<img src='https://simpleicons.vercel.app/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-montandon/)    [<img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='40'>](https://twitter.com/SebaMontandon) 
-
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmontandon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianmontandon&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/sebastianmontandon)  
+___
+<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
+ <p align="center">
+  <a href="https://twitter.com/SebaMontandon">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sebastian-montandon/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
