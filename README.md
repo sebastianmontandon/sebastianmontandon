@@ -1,9 +1,12 @@
-## Hey <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm Sebastian, Great to see you here!
+## Hey <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm Sebastian, Great to see you here! 
 
 ## About Me 🙂
 Experienced IT professional with 14+ years of dedicated service in the technology sector. I've honed my skills through continuous learning and hands-on experience, specializing in Python development. My journey spans both frontend and backend technologies, making me a versatile and innovative developer.
 
 ---
+
+![](https://komarev.com/ghpvc/?username=sebastianmontandon&color=orange)
+
 <p align="center">
 <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=sebastianmontandon&show_icons=true&theme=tokyonight" />     
 <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianmontandon&show_icons=true&theme=tokyonight" />
