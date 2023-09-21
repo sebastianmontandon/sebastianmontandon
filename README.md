@@ -17,15 +17,25 @@ Experienced IT professional with 14+ years of dedicated service in the technolog
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastianmontandon&theme=chartreuse-dark" /> 
 
 ---
- <h2 align="center">Frontend Stack 🎨</h2>
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,figma,ps" />
+<h2 align="center">Frontend Stack 🎨</h2>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" />
+</p>
+
+<h3 align="center">Contact With (Frontend)</h2>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=astro,figma,ps" />
 </p>
 
 ---
- <h2 align="center">Backend Stack ⚙</h2>
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,git,mongodb,mysql,nodejs,express,postman,py" />
+<h2 align="center">Backend Stack ⚙</h2>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=django,py,mysql,git" />
+</p>
+
+<h3 align="center">Contact With (Backend)</h2>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=fastapi,mongodb,nodejs,express,postman" />
 </p>
 
 ___
