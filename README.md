@@ -2,8 +2,8 @@
 # Hi, I'm Sebastián Montandón 👋
 
 <p align="left">
-  <a href="https://www.sebastianmontandon.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/sebastian-montandon">LinkedIn</a>
+  <a href="https://www.sebastianmontandon.dev" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/sebastian-montandon" target="_blank">LinkedIn</a>
 </p>
 
 ---
